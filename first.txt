@@ -4,3 +4,4 @@ tomguraguraにcommitしたい
 
 ・git add
 ・git command
+・git remove
