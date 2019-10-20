@@ -6,3 +6,4 @@ tomguraguraにcommitしたい
 ・git command
 ・git remove
 ・git status
+・git diff
