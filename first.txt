@@ -1,3 +1,6 @@
 Gitの練習をしていきます！！
 基本的なワークフローを学びます。リポジトリ間違えた
 tomguraguraにcommitしたい
+
+・git add
+・git command
